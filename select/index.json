@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Please Don't Fall In Love With Me",
+  "base_artist": "Khalid",
+  "createdAt": "2026-02-19T00:10:44.268107Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Please Don't Fall In Love With Me",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/01_Please_Don't_Fall_In_Love_With_Me_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Please Don't Fall In Love With Me",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/02_Please_Don't_Fall_In_Love_With_Me_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Please don't fall in love with me",
+      "artist": "Ashe",
+      "has_synced": false,
+      "path": "select/03_Please_don't_fall_in_love_with_me_Ashe.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Please Don't Fall in Love With Me",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/04_Please_Don't_Fall_in_Love_With_Me_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Please Don't Fall In Love With Me (Visualizer)",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/05_Please_Don't_Fall_In_Love_With_Me_(Visualizer)_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Please Don't Fall In Love With Me (Visualizer)",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/06_Please_Don't_Fall_In_Love_With_Me_(Visualizer)_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Please Don't Fall In Love With Me",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/07_Please_Don't_Fall_In_Love_With_Me_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Khalid - Please Don't Fall In Love With Me (Visualizer)",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/08_Khalid_-_Please_Don't_Fall_In_Love_With_Me_(Visualizer)_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Please Don't Fall In Love With Me (Visualizer)",
+      "artist": "Video • Khalid",
+      "has_synced": true,
+      "path": "select/09_Please_Don't_Fall_In_Love_With_Me_(Visualizer)_Video_•_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Please Don't Fall In Love With Me (Lyric Video)",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/10_Please_Don't_Fall_In_Love_With_Me_(Lyric_Video)_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Khalid - Please Don't Fall In Love With Me (Lyrics)",
+      "artist": "Iyan Music",
+      "has_synced": true,
+      "path": "select/11_Khalid_-_Please_Don't_Fall_In_Love_With_Me_(Lyrics)_Iyan_Music.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Please Don't Fall In Love With Me",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/12_Please_Don't_Fall_In_Love_With_Me_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Please Don't Fall In Love With Me",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/13_Please_Don't_Fall_In_Love_With_Me_Khalid.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Please Don't Fall In Love With Me",
+      "artist": "Khalid",
+      "has_synced": false,
+      "path": "select/pl_01_Please_Don't_Fall_In_Love_With_Me_Khalid.txt"
+    }
+  ]
+}
